@@ -1,0 +1,77 @@
+# Playlist IPTV
+# TIVIMATE
+# [@fyn170]
+
+## RCTI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TV",RCTI
+https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+
+## GLOBAL TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="TV",GTV
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+## MNCTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="TV",MNC TV
+https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+## NET-TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="TV",NET TV
+http://210.210.155.35:80/qwr9ew/s/s08/02.m3u8
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+
+## SCTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="TV",SCTV
+http://210.210.155.35/session/7e7ccbbe-d617-11ea-934d-b82a72d63267/qwr9ew/s/s03/01.m3u8
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+
+## INDOSIAR
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TV",INDOSIAR
+http://210.210.155.35/session/390362c0-d8b8-11ea-934d-b82a72d63267/qwr9ew/s/s04/02.m3u8
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+
+## ANTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="TV",ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+https://visionplus-stream.visionplus.id//live/eds/ANTV-radeon/sa_hls/ANTV-radeon.m3u8
+
+## TRANSTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="TV",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+## TRANS7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="TV",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+## O CHANNEL
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", O Channel
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+## TVONE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="TV", TV ONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+## CNN
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNN.jpg" group-title="TV", CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+
+## CNBC
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/CNBC.jpg" group-title="TV", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+
+## METROTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/METROTV.jpg" group-title="TV", METROTV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd?token=bukuanmetrotv
+
+## METRO GLOBE NETWORK
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/METROTV.jpg" group-title="TV", METRO GLOBE NETWORK 
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
+
+## RTV
+#EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/RTV.jpg" group-title="TV", RTV 
+http://210.210.155.37/dr9445/h/h10/index.m3u8
+
+## JTV
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19554476_ico.png?ts=1654802291" group-title="TV",JTV 
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+
+=======================[@@@@##@@@]=======================
