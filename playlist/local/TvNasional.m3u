@@ -46,6 +46,10 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="TV", O Channel
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
+## INEWS
+#EXTINF:0 tvg-id="" tvg-name="INews" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="Lokal",INews
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8|referer=https://m.rctiplus.com/
+
 ## TVONE
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="TV", TV ONE
 http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
