@@ -1,8 +1,8 @@
+#EXTM3U
 # Playlist IPTV
 # TIVIMATE
 # [@fyn170]
 
-#EXTM3U
 ## RCTI
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TV",RCTI
 https://livetv01.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
