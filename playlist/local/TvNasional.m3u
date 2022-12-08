@@ -13,6 +13,7 @@ https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 ## MNCTV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="TV",MNC TV
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8|referer=https://m.rctiplus.com/
 
 ## NET-TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="TV",NET TV
